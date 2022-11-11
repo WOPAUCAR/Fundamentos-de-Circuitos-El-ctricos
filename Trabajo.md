@@ -151,6 +151,9 @@ Ejercicios Capitulo 2
 
 35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje 
 
+![image](https://user-images.githubusercontent.com/116781607/201424022-80553650-31d7-4ae2-9dbe-970d03aaeaf4.png)
+
+
 37. Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72
 
 ![image](https://user-images.githubusercontent.com/116781607/201408031-f9378748-c4d3-4e09-8e93-082395a641d8.png)
