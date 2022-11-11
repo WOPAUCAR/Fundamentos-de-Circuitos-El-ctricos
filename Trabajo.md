@@ -177,7 +177,8 @@ Ejercicios Capitulo 2
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
-![image](https://user-images.githubusercontent.com/116781607/201409047-dfd8b257-2a91-4e8f-be27-c6d7d4d70e54.png
+![image](https://user-images.githubusercontent.com/116781607/201424224-d5091dc8-646b-4238-af42-06aaba8280c0.png)
+
 
 VIDEO
 
