@@ -178,12 +178,14 @@ VIDEO
 https://youtu.be/8OaGLhtSHB8
 
 Conclusiones 
+
 Los circuitos electrónicos tienen un funcionamiento muy interesante en el que he entendido que necesitan para funcionar al igual que conocer diferentes dispositivos que nos sirven para poder interprétala y manejarla de forma correcta
 Estos también tienen tipos de circuitos que tipo de corriente usan ya sea alterna o continua para funcionar lo cual amplia un conocimiento para desarrollar circuitos nuevos.
 Una mejor comprensión sobre el entendimiento sobre la electrónica también cual son sus riegos al no tomar sus normas establecidas
 
 
 Bibliografía
+
 LFLOYD. (2018). CANTIDADES Y UNIDADES. En T. L. Floyd, PRINCIPIOS DE (pág. 968). Estado de México: Pearson Educacion.
 Schneider. (n.d.). AS-P. Retrieved July 23, 2022, from https://ecostruxure-buildinghelp.se.com/topics/show.castle?id=10547&locale=es-ES&productversion=1.9
 Schneider. (2019). Product Environmental Profile iC60 Circuit Breaker. http://www2.schneiderelectric.com/sites/corporate/en/products-services/green-premium/green-premium.page
