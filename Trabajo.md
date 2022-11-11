@@ -1,4 +1,6 @@
-OBJETIVOS
+INFORME-TAREA-1
+
+Nombr: Wiliam Omar Paucar Llumiquinga
 
 OBJETIVOS GENERAL 
 
