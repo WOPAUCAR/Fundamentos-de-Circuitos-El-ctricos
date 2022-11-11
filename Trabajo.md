@@ -13,6 +13,12 @@ sobres estos
 
 MARCO TEÓRICO (RESUMEN)
 
+![Capitulo 1](https://user-images.githubusercontent.com/116781607/201418336-d1690731-820c-4a72-bea9-ebe5655c25c9.png)
+
+![borrador 2 (1)](https://user-images.githubusercontent.com/116781607/201418455-f0b25960-e8ed-4e2a-abeb-c3578f08989a.png)
+
+
+
 1. Exprese cada uno de los números siguientes en notación científica:
 
 ![image](https://user-images.githubusercontent.com/116781607/201400080-77b58e56-b792-48ff-8df1-c2b8d379be92.png)
@@ -166,6 +172,28 @@ Ejercicios Capitulo 2
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
 ![image](https://user-images.githubusercontent.com/116781607/201409047-dfd8b257-2a91-4e8f-be27-c6d7d4d70e54.png
+
+VIDEO
+
+https://youtu.be/8OaGLhtSHB8
+
+Conclusiones 
+Los circuitos electrónicos tienen un funcionamiento muy interesante en el que he entendido que necesitan para funcionar al igual que conocer diferentes dispositivos que nos sirven para poder interprétala y manejarla de forma correcta
+Estos también tienen tipos de circuitos que tipo de corriente usan ya sea alterna o continua para funcionar lo cual amplia un conocimiento para desarrollar circuitos nuevos.
+Una mejor comprensión sobre el entendimiento sobre la electrónica también cual son sus riegos al no tomar sus normas establecidas
+
+
+Bibliografía
+LFLOYD. (2018). CANTIDADES Y UNIDADES. En T. L. Floyd, PRINCIPIOS DE (pág. 968). Estado de México: Pearson Educacion.
+Schneider. (n.d.). AS-P. Retrieved July 23, 2022, from https://ecostruxure-buildinghelp.se.com/topics/show.castle?id=10547&locale=es-ES&productversion=1.9
+Schneider. (2019). Product Environmental Profile iC60 Circuit Breaker. http://www2.schneiderelectric.com/sites/corporate/en/products-services/green-premium/green-premium.page
+Schneider Electric Chile. (2022). TCSESL043F23F0 - "Switch Ethernet administrado Lite - 4 puertos TX
+" |. https://www.se.com/cl/es/product/TCSESL043F23F0/switch-ethernet-administrado-lite-4-
+puertos-tx-/
+Schneider Electric Colombia. (2022). SX-RD-XW - Security Expert smartcard reader, 13.56MHz, wall
+plate, white | Schneider Electric Colombia. https://www.se.com/co/es/product/SX-RDXW/security-expert-smartcard-reader-13-56mhz-wall-plate-white/
+Schneider Electric Global. (2020). SP-C - Security Expert security purpose controller | Schneider
+Electric Global
 
 
 
