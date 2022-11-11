@@ -161,6 +161,9 @@ Ejercicios Capitulo 2
 
 41. En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
 
+![image](https://user-images.githubusercontent.com/116781607/201423497-6020b698-e6e4-44db-b05a-5cd73cc19908.png)
+
+
 43. ¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
 ![image](https://user-images.githubusercontent.com/116781607/201408440-d923dea8-63fc-401b-af7c-096ed30a46a9.png)
