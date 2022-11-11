@@ -149,7 +149,11 @@ Ejercicios Capitulo 2
 
 ![image](https://user-images.githubusercontent.com/116781607/201405359-81753931-417c-47d1-8162-db0540deb8b9.png)
 
-35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje 
+35. Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de de voltaje (Vs1 y Vs2) al mismo tiempo a cualquier de los resistores (R1 y R2) como sigue    
+
+Vs1 conectado a  R1 y  Vs2 con  R2 
+
+Vs1 conectado a R2 y Vs2 con R1
 
 ![image](https://user-images.githubusercontent.com/116781607/201424022-80553650-31d7-4ae2-9dbe-970d03aaeaf4.png)
 
@@ -195,10 +199,13 @@ Bibliografía
 
 LFLOYD. (2018). CANTIDADES Y UNIDADES. En T. L. Floyd, PRINCIPIOS DE (pág. 968). Estado de México: Pearson Educacion.
 Schneider. (n.d.). AS-P. Retrieved July 23, 2022, from https://ecostruxure-buildinghelp.se.com/topics/show.castle?id=10547&locale=es-ES&productversion=1.9
+
 Schneider. (2019). Product Environmental Profile iC60 Circuit Breaker. http://www2.schneiderelectric.com/sites/corporate/en/products-services/green-premium/green-premium.page
+
 Schneider Electric Chile. (2022). TCSESL043F23F0 - "Switch Ethernet administrado Lite - 4 puertos TX
 " |. https://www.se.com/cl/es/product/TCSESL043F23F0/switch-ethernet-administrado-lite-4-
-puertos-tx-/
+puertos-tx-
+
 Schneider Electric Colombia. (2022). SX-RD-XW - Security Expert smartcard reader, 13.56MHz, wall
 plate, white | Schneider Electric Colombia. https://www.se.com/co/es/product/SX-RDXW/security-expert-smartcard-reader-13-56mhz-wall-plate-white/
 Schneider Electric Global. (2020). SP-C - Security Expert security purpose controller | Schneider
