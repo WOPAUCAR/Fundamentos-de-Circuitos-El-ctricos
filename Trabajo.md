@@ -11,6 +11,8 @@ OBJETIVOS ESPECIFICOS
 Analizar la teoría de los circuitos electrónicos en el que se comprenderán que principios se basan para funcionar correctamente en el desarrollara una comprension
 sobres estos
 
+MARCO TEÓRICO (RESUMEN)
+
 1. Exprese cada uno de los números siguientes en notación científica:
 
 ![image](https://user-images.githubusercontent.com/116781607/201400080-77b58e56-b792-48ff-8df1-c2b8d379be92.png)
@@ -163,7 +165,10 @@ Ejercicios Capitulo 2
 
 47. Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
-![image](https://user-images.githubusercontent.com/116781607/201409047-dfd8b257-2a91-4e8f-be27-c6d7d4d70e54.png)
+![image](https://user-images.githubusercontent.com/116781607/201409047-dfd8b257-2a91-4e8f-be27-c6d7d4d70e54.png
+
+
+
 
 
 
