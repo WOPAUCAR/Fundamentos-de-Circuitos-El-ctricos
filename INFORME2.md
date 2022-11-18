@@ -43,6 +43,9 @@ PARES
 
 6) En cierto circuito, I=5 mA cuando V=1V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito
 
+![image](https://user-images.githubusercontent.com/116781607/202785285-84b34518-540b-4360-9343-0e7209b37cfc.png)
+
+
 ![image](https://user-images.githubusercontent.com/116781607/202764646-55797936-c702-42c1-be73-52ab2bdd0467.png)
 
 
