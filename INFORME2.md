@@ -64,7 +64,7 @@ El  circuito (a)  tiene menos I  mientras que el circito (c) tiene mas I
 
 Los dos aumentan ya que son directament proporcionales 
 
-16.Determine la corriente en cada caso:
+16.Determie la corriente en cada caso:
 
 ![image](https://user-images.githubusercontent.com/116781607/202769089-b671f889-174c-4f61-9afa-ff0e77133ae6.png)
 
@@ -164,6 +164,42 @@ c) 350 mW = 0,35 W
 
 
 d)9000µW =9x10 -3
+
+12)Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilovatios-hora de energía consume?
+
+![image](https://user-images.githubusercontent.com/116781607/202778457-0d6364c2-12d2-4e9c-8aeb-e660126482e5.png)
+
+14)Convierta 5x10 6 watts-minutos en kWh
+
+![image](https://user-images.githubusercontent.com/116781607/202778687-ccfca7b0-e1ad-4f30-8800-2ace69a5ae95.png)
+
+
+16)¿Durante cuántos segundos debe haber 5 A de corriente a través de una resistencia de 47Ω para consumir 25 J?
+
+![image](https://user-images.githubusercontent.com/116781607/202779558-16bb0446-322a-42b9-ab99-efb3068a519d.png)
+
+
+18)Si una resistencia tiene 5,5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/116781607/202780754-8eec5b4b-debc-4146-ab04-cb4d86293c7d.png)
+
+20)¿Cuál es la potencia cuando 500 mA de corriente se registran en una resistencia de 4,7 kΩ?
+
+![image](https://user-images.githubusercontent.com/116781607/202780822-d59d0161-c522-4f0a-9b52-4f9c2d3b7cff.png)
+
+
+22)Si entre los extremos de una resistencia de 680Ω existen 60 V, ¿cuál es la potencia?
+
+![image](https://user-images.githubusercontent.com/116781607/202780886-8ee58754-9470-4588-8387-ab4def403e54.png)
+
+
+24)Si una resistencia tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿cuántos ohmios debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido
+
+![image](https://user-images.githubusercontent.com/116781607/202781000-0ae2e367-40fe-43ad-9d05-ffd3e0e815e6.png)
+
+
+26)Un resistor de 6,8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si la resistencia transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistencias en todas las clasificaciones de potencia estándar.
+
 
 
 
