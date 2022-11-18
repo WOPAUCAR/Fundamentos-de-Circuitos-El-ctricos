@@ -98,6 +98,76 @@ Los dos aumentan ya que son directament proporcionales
 
 ![image](https://user-images.githubusercontent.com/116781607/202774510-c3c4a2ff-1240-4a4d-8881-37c09a6ccc1b.png)
 
+30)Se aplica seis voltios a través de una resistencia. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+
+![image](https://user-images.githubusercontent.com/116781607/202774837-70597d3b-1951-41db-ae27-14ca1cff7187.png)
+
+32)Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias
+
+Se resolveria con  aplicando la formula de la ley de omh con l formula Resistencia igual voltaje sobre corriente 
+
+34.Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reósta- to sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω.
+
+![image](https://user-images.githubusercontent.com/116781607/202775595-ad102c32-a3b3-4b20-8a68-eda1f2e82085.png)
+
+![image](https://user-images.githubusercontent.com/116781607/202776276-7e080990-4ea1-486d-b428-d2708bc048f5.png)
+
+EJERCICIOS CAP 4
+
+2) Demuestra que hay 3,6 3 106 julios en un kilovatio-hora.
+
+![image](https://user-images.githubusercontent.com/116781607/202776740-c17a7367-11f1-4cdd-9d5b-6147e5f0fccd.png)
+
+4)¿Cuántos vatios se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+
+![image](https://user-images.githubusercontent.com/116781607/202777304-959f6b6f-9e95-45c3-babb-9d930ada147f.png)
+
+6) Convierta las siguientes cantidades en kilovatios:
+
+
+a)1000W = 1kW
+
+
+b)3750W =3.75kW
+
+
+c) 160 W = 0,16 kW
+
+
+d)50,000W = 50kW
+
+
+8)Convierta las siguientes cantidades en milivatios:
+
+
+a) 1W = 1000mW
+
+
+b)0.4W = 400mW
+
+
+c)0.002W = 2mW
+
+
+d)0.0125W = 12.5mW
+
+
+10)Convierta las siguientes cantidades en vatios:
+a) 1.5kW = 1500W
+
+
+b)0.5MW = 5x10 5W
+
+
+c) 350 mW = 0,35 W
+
+
+d)9000µW =9x10 -3
+
+
+
+
 
 
 
