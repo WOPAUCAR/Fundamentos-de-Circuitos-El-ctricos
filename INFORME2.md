@@ -200,6 +200,50 @@ d)9000µW =9x10 -3
 
 26)Un resistor de 6,8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si la resistencia transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistencias en todas las clasificaciones de potencia estándar.
 
+![image](https://user-images.githubusercontent.com/116781607/202781365-af531bbc-73f9-4b75-a247-40a299465a03.png)
+
+
+28)En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resisto
+
+![image](https://user-images.githubusercontent.com/116781607/202782272-2044708a-67cb-4689-a25a-78f3602f8004.png)
+
+
+30) Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10Ω antes de volverse inutilizable. ¿Qué potencia promedio se suministra a la carga durante la vida útil de la batería?
+
+![image](https://user-images.githubusercontent.com/116781607/202782921-65bf1ded-3014-487c-9a98-7a129123cf09.png)
+
+
+32) Una batería puede proporcionar un promedio de 1,5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperios-hora?
+
+![image](https://user-images.githubusercontent.com/116781607/202783037-419b44f5-eafe-4169-8090-fa2b68c04832.png)
+
+
+34)Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio se suministrará durante 48 h?
+
+![image](https://user-images.githubusercontent.com/116781607/202783085-8a45083b-f46b-42ce-9881-372360a3318e.png)
+
+
+36)Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+![image](https://user-images.githubusercontent.com/116781607/202783146-a93a8a79-68b8-44fa-8897-f33cb5ac3e33.png)
+
+
+4) VIDEO 
+
+
+
+5) CONCLUSIONES 
+
+Como hemos visto para el cálculo de voltaje , corriente y resistencia se rige por la ley de ohm el cual es necesario al igual que el sistema metrico  visti en capítulos anteriores el cual nos ha facilitado la conversación de las unidades.
+
+
+Al igual que la ley de ohm es importante el conocimiento de la relación de la potencia ya que con ello podremos calcular la potencia del circuito y la potencia nominal de los resistores.
+
+
+6) Bibliografia
+LFLOYD. (2018). CANTIDADES Y UNIDADES. En TL Floyd, PRINCIPIOS DE (pág. 968). Estado de México: Pearson Educación. Schneider. (Dakota del Norte). ÁSPID. Recuperado el 23 de julio de 2022, de https://ecostruxure-buildinghelp.se.com/topics/show.castle?id=10547&locale=es-ES&productversion=1.9
+
+
 
 
 
