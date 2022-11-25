@@ -1090,6 +1090,15 @@ It= 1.99mA
 
 42)Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 kΩ, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente
 
+
+R=Vs/I1 
+
+R= 1/50
+
+R1=0,2
+La  potencia es optima y se puede usaR
+
+
 44)En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?
 
 
@@ -1118,6 +1127,11 @@ https://youtu.be/k-MYH77zvOE
 
 Es necesario tener conocimiento de todos los capitulos visto ya que con esos conocimientos podremos calcular o encontrar errores en un circuito electrico asi logrando cumplir el objetivo de resolver problemas y solucionar cualquier tipo de errores .
 
+
+6)Bibliografia 
+
+
+Bibliografia LFLOYD. (2018). CANTIDADES Y UNIDADES. En TL Floyd, PRINCIPIOS DE (pág. 968). Estado de México: Pearson Educación. Schneider. (Dakota del Norte). ÁSPID. Recuperado el 23 de julio de 2022, de https://ecostruxure-buildinghelp.se.com/topics/show.castle?id=10547&locale=es-ES&productversion=1.9
 
 
 
