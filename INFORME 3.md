@@ -52,3 +52,334 @@ Aplicar la ley de ohm  y Kirchhoff
 ![Tablero en blanco (8)](https://user-images.githubusercontent.com/116781607/203906678-b46cd823-e450-48d4-84ad-d3df7150fdce.png)
 
 
+4) EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS -EJERCICIOS CAPITULO 5
+
+PARES
+
+2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
+
+![image](https://user-images.githubusercontent.com/116781607/203919471-45df38c6-ba47-4f20-a4e1-969740b89303.png)
+
+Conectaria la punta de de salida de R4 con la punta de entrada R5 , La punta de salida de R10 con la punta de entra de R6,  La punta de salida de R12 con la punta de entrada de R13.  
+
+4. Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura 5-68.
+
+Primero debereria identificar los valores de la resistencia con el codido de colores  y sacar su toleran correspondiente a los maximos y minimos luego hacer una comparacion con el de error.
+
+6)¿Cuál es la corriente a través de cada resistencia dispuesta en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 Ω?
+
+I=V/R
+I=12/120= 0.1mA
+
+8)Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impresa ilustrada en la figura 5-68 para medir la corriente en R1. ¿Qué otras corrientes de resistencia se miden con esta configuración?
+
+![image](https://user-images.githubusercontent.com/116781607/203923863-c864f5f1-901b-4669-acb9-b0e2cb829d8d.png)
+ Todas las corrientes de la placa ya que la intenciad sera la misma 
+ 
+ 10)Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0Ω, 2.2Ω, 5.6Ω, 12Ω, y 22Ω. Determine la resistencia total.
+
+RT =1.0+2.2+.6+12+22= 42.8Ω
+
+12)Calcule el RT en cada circuito de la figura 5-71
+
+![image](https://user-images.githubusercontent.com/116781607/203924522-43c55816-9f57-48aa-8c7b-a28009e532e4.png)
+
+RT=R1+R2+....Rn
+
+a)RT = 1,0kΩ+ 5,6kΩ +2,2kΩ=8,8kΩ
+
+b)RT =4.7Ω+ 10Ω +12Ω+1.0Ω=27.7Ω
+
+c)RT =1.0MΩ+ 560MΩ +5.6MΩ+680kΩ+10MΩ=17.48MΩ
+
+14)Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
+
+RT= R1+R2+...Rn....
+RT= 56 Ω+56 Ω+56 Ω+56 Ω+56 Ω+56 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+22 Ω. +22 Ω. 
+RT= 1118Ω 
+
+16)Usted dispone de los siguientes valores de resistencia en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1,0 kΩ, 2,2 kΩ, y 5,6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
+
+
+Usaria 3 de 5,6KΩ mas 1KΩ y dos de 100Ω
+
+
+18)En la figura 5-73, ¿cuál es la resistencia total de A a B con cada posición del interruptor?
+
+
+![image](https://user-images.githubusercontent.com/116781607/203926604-1cff2ee3-fcae-4b73-8973-61d8af4034af.png)
+Posicion 1
+
+
+RT= 510Ω + 820Ω +680Ω = 2010Ω 
+
+
+Posicon 2
+
+
+RT= 510+ 910+ 820 +750 + 680 = 3670Ω
+
+20) Determine la caída de voltaje a través de cada resistencia mostrada en la figura 5-74.
+
+
+![image](https://user-images.githubusercontent.com/116781607/203927424-9681dc12-e245-4c2c-b4a5-9fe8646b29b8.png)
+
+
+Circuito A
+
+
+Resistencia Total
+
+
+Rt= 2.2kΩ + 5.6kΩ + 1.0kΩ
+
+
+RT= 8.8kΩ
+
+
+Formula de la Corriente 
+
+
+I=V/R
+
+
+I=5.5V/8.8k
+
+
+I=6.25x10^4
+
+
+Formula caida de voltaje
+
+
+VR = IT.Rns
+
+
+Vr1= (6.25x10^-4 )(2.2x10^3 )= 1.375V
+
+
+Vr2= (6.25x10^-4 )(5.6x10^3 )= 3.5V
+
+
+Vr3= (6.25x10^-4 )(1.0x10^3 )= 0.625V
+
+
+
+Circuito B
+
+
+Resistencia Total
+
+
+Rt= 1.0MΩ+2.2MΩ+560KΩ
+
+
+Rt= 3.76MΩ
+
+
+Formula de la Corriente 
+
+
+I=V/R
+
+
+I=16/3.76MΩ
+
+
+I= 4,2μA
+
+
+Formula caidas
+
+
+VR = IT.Rns
+
+
+Vr1= ( 4,2μA)(1.0MΩ)= 4.2V
+
+
+Vr2= (4,2μA)(2.2MΩ)= 9.24V
+
+
+Vr3= (4,2μA )(560KΩ)= 2.35V
+
+
+22) Cuatro resistencias de igual valor están en serie con una batería de 5 V y se miden 2,23 mA. ¿Cuál es el valor de cada resistencia?
+
+
+R=V/I
+
+
+R=5/2.22= 2252.25Ω
+
+
+24)Determine VR1, R2 y R3 en la figura 5-76
+
+
+![image](https://user-images.githubusercontent.com/116781607/203932107-cfa80b59-8a86-4d23-a3c3-f7a28f807bd9.png)
+
+
+Vr1= 12.3 * 82= 1.0086V
+
+
+R2=8.7814/12.3
+
+
+R2=713.9Ω
+
+
+R3=2.21/12.3
+
+
+R3=179.67Ω
+
+
+26)Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado
+
+
+![image](https://user-images.githubusercontent.com/116781607/203933679-49b64fe8-8eb8-4f7c-bb75-bde5f5059c3d.png
+Posicion 1
+RT= 1.0 kΩ + 33+ k 68Ω k+ 27Ω k+22 kΩ
+RT= 151kΩ
+Corriente 
+I= V/R
+I=  9/151kΩ
+I= 0.596μA
+Posicion 2
+RT= 1.0K
+I= V/R
+I= 9mA
+
+28) El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+V DE AB = 12V -3V = 9V
+
+30)Se miden las siguientes caídas de voltaje a través de tres resistencias dispuestas en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectadas estas resistencias?
+
+
+V T = V1+V2+V3
+
+V T = 5,5 V + 8,2 V + 12,3 V 
+
+V T = 26 V
+
+
+32)Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
+
+![image](https://user-images.githubusercontent.com/116781607/203937095-9dad3510-ecbb-4c6e-aa20-1b9bfe744487.png)
+
+Ecuacion del circuito A
+
+a)-15V+2V+V2+3,2V+1V+1,5V+0,5V=0
+
+V2 = 6,8 V
+
+Ecuacion del circuito B
+
+b)8V+8V+16V+24V+32V-VS =0
+
+VS = 88V
+
+34)Encuentre R1, R2 y R3 en la figura 5-82
+
+
+![image](https://user-images.githubusercontent.com/116781607/203937305-820f1e3f-8e52-4f63-80bd-73edd63a5404.png)
+
+R1 = V/ I 
+
+
+R1= 5,6/0,01
+
+
+R1 = 560Ω
+
+
+------------------
+
+
+P2 = I 2 * R2
+
+
+R2 = 220 Ω
+
+
+V=0.01 * 220V
+
+-----------------
+
+Ecuacion
+
+
+-9V+5.6V+2.2V+V3= 0
+
+
+V3 = 1,2 V
+
+------------------
+
+Formula
+
+
+R= V/I
+
+
+R3 = 1,2 /0,01
+
+
+R3=120 Ω
+
+36)Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor
+
+
+![image](https://user-images.githubusercontent.com/116781607/203938679-74b9e590-cbc4-41ba-af7d-9e7e00bafd76.png)
+
+
+A= 4,0 V
+
+B= 4,5 V
+
+do=5,4
+
+D=7,2 V
+
+
+38)Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84
+
+
+![image](https://user-images.githubusercontent.com/116781607/203938854-b89fe0fd-bab2-4b34-9952-234e0e30907c.png)
+
+A)
+
+RT = 100Ω+ 56Ω
+
+RT = 156Ω
+
+V= (56/156)x 12V=4.31V
+
+B)
+
+RT= 1000Ω + 22000Ω + 33000Ω 
+
+
+RT = 6500Ω
+
+
+V= (5500/6500)x8V=6,77V
+
+
+40) Determine los voltajes mínimos y máximos producidos por el divisor de voltaje de la figura 5-85(b)
+
+
+![image](https://user-images.githubusercontent.com/116781607/203939582-e58a8fcc-481d-4033-a426-38f3754e91f6.png)
+
+
+
+
+
+
+
+
+
+
+
+
