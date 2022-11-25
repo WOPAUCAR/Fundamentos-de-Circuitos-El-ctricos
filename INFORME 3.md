@@ -237,8 +237,13 @@ R3=179.67Ω
 26)Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado
 
 
-![image](https://user-images.githubusercontent.com/116781607/203933679-49b64fe8-8eb8-4f7c-bb75-bde5f5059c3d.png
-Posicion 1
+![image](https://user-images.githubusercontent.com/116781607/203939947-4056d7be-a4bc-407c-b21a-b536f43fcdf1.png)
+
+
+
+Posicion1
+
+
 RT= 1.0 kΩ + 33+ k 68Ω k+ 27Ω k+22 kΩ
 RT= 151kΩ
 Corriente 
@@ -371,6 +376,246 @@ V= (5500/6500)x8V=6,77V
 
 
 ![image](https://user-images.githubusercontent.com/116781607/203939582-e58a8fcc-481d-4033-a426-38f3754e91f6.png)
+VOLTAJE MINIMO
+
+
+V=(1470/2150)x12
+
+
+V= 8.2
+
+
+VOLTAJE MAXIMO
+
+
+V=(1680/2150)x12
+
+
+V=9.38V 
+
+
+42)En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería
+
+
+![image](https://user-images.githubusercontent.com/116781607/203940537-5c615415-cf42-4821-ba86-c5988f33d1d1.png)
+
+
+Voltaje de e-f
+
+
+V =(5600/108600)* 100
+
+
+V = 5.16V
+
+
+Voltaje de d-f
+
+
+V=(20600/108600)* 100
+
+
+
+V= 18.97V
+
+
+Voltaje de c-f
+
+
+
+V=(76600/108600)* 100
+
+
+V= 70.53V
+
+
+
+Voltaje b- f
+
+
+Vb -f =( 86600/108600 )* 100
+
+
+V= 79.74z
+
+
+
+Voltaje a - f
+
+
+V a-f -f=(108600/108600)* 100
+
+
+V=100V
+
+
+46)Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
+
+PT = 50mWx5 
+
+
+PT=  250mW
+
+
+48) Los siguientes resistores de 1⁄4 W están disponibles en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estas resistencias sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+Vs=(PtxRt)^1/2
+
+vs=  3225V
+
+El resistor mayo a 1.2V  se quemara
+
+
+50)Cierto circuito en serie se compone de una resistencia de 1⁄8 W, una resistencia de 1⁄4 W, y una resistencia de 1⁄2 W. La resistencia total es de 2400Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente
+
+a)I 
+
+
+b)V T
+
+
+c)El valor de cada resistencia
+
+
+a)
+
+
+I= (PtxRt)^1/2 
+
+
+I=  45.83A
+
+
+--------------------------------
+
+
+b)
+
+
+
+  Vs=Pt/I=
+
+
+  Vs= 19mV
+--------------------------------
+
+c)R=I 2 /P 
+
+
+ R1=300Ω
+
+
+ R2=600Ω
+
+
+ R3=1200Ω
+ 
+ 
+ 52)En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor)
+ 
+ 
+ Debo usar  I=(PtxRt)^1/2 luego ley de ohm.
+
+
+54)Se conecta una serie de cinco resistencias a través de una batería de 12 V. Se miden 0 voltios en todas las resistencias excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+
+El circuito tiene alguna alguna rama abierta 
+
+
+56)¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
+
+
+![image](https://user-images.githubusercontent.com/116781607/203943517-2350229a-a0cd-478f-8534-e6f29bc0f4b3.png)
+
+
+R1 sera medido 
+
+
+58)Se leen 15 kΩ entre las puntas 5 y 6 de la tarjeta de circuito impresa mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
+
+
+![image](https://user-images.githubusercontent.com/116781607/203943641-c10b8995-856f-41a0-ba93-bfd55204132d.png)
+
+
+Si indica un problema puede qu el interuptor este fallando o haya una avertura en alguna malla del circuito 
+
+
+
+60)Los tres grupos de resistencias en serie muestran en la tarjeta de circuito impreso de la figura 5-93 están conectados en serie entre sí para formar un solo circuito en serie conectando la punta 2 a la 4 y la 3 a la 5. Se conecte una fuente de voltaje entre las puntas 1 y 6 y se coloca un amperímetro en serie. Conforme aumenta el voltaje de la fuente, se observa el incremento correspondiente de la corriente. De improvisación, la corriente se reduce a cero y huele a humo. Todos los resistores son de 1⁄2 W
+
+
+![image](https://user-images.githubusercontent.com/116781607/203943921-eea0d0c4-fe0e-48d0-9b28-ce65cf4f9dca.png)
+
+
+
+a) ¿Qué sucedió?
+
+
+Tiene una abertura en uno de los resistores.
+
+
+b)¿Qué debe hacere para arreglar el problema?
+
+
+Debemos localizar la resistencia donde estar abierto el circuito usando el volimetro 
+
+
+c)¿Con qué voltaje ocurrió la falla?
+
+
+1/2R T =12V
+
+
+Despejo
+
+
+RT= 24V
+
+______________________________________________________________________
+
+
+Ejercicios Capitulo 4
+
+
+PARES
+
+
+2) Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.
+
+
+![image](https://user-images.githubusercontent.com/116781607/203944496-c3facfe0-24b1-441b-b026-18798d82b6cb.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
 
 
 
