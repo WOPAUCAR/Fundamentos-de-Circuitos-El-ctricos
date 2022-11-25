@@ -88,14 +88,22 @@ RT=R1+R2+....Rn
 
 a)RT = 1,0kΩ+ 5,6kΩ +2,2kΩ=8,8kΩ
 
+
 b)RT =4.7Ω+ 10Ω +12Ω+1.0Ω=27.7Ω
+
 
 c)RT =1.0MΩ+ 560MΩ +5.6MΩ+680kΩ+10MΩ=17.48MΩ
 
+
 14)Se conectan en serie seis resistores de 56 Ω, ocho de 100 Ω, y dos de 22 Ω. ¿Cuál es la resistencia total?
 
+
 RT= R1+R2+...Rn....
+
+
 RT= 56 Ω+56 Ω+56 Ω+56 Ω+56 Ω+56 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+100 Ω+22 Ω. +22 Ω. 
+
+
 RT= 1118Ω 
 
 16)Usted dispone de los siguientes valores de resistencia en el laboratorio en cantidades ilimitadas: 10 Ω, 100 Ω, 470 Ω, 560 Ω, 680 Ω, 1,0 kΩ, 2,2 kΩ, y 5,6 kΩ. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 kΩ. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?
@@ -108,7 +116,10 @@ Usaria 3 de 5,6KΩ mas 1KΩ y dos de 100Ω
 
 
 ![image](https://user-images.githubusercontent.com/116781607/203926604-1cff2ee3-fcae-4b73-8973-61d8af4034af.png)
+
+
 Posicion 1
+
 
 
 RT= 510Ω + 820Ω +680Ω = 2010Ω 
@@ -245,50 +256,84 @@ Posicion1
 
 
 RT= 1.0 kΩ + 33+ k 68Ω k+ 27Ω k+22 kΩ
+
+
 RT= 151kΩ
+
+
 Corriente 
+
+
 I= V/R
+
+
 I=  9/151kΩ
+
+
 I= 0.596μA
+
+
 Posicion 2
+
+
 RT= 1.0K
+
+
 I= V/R
+
+
 I= 9mA
 
 28) El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
+
+
 V DE AB = 12V -3V = 9V
+
+
 
 30)Se miden las siguientes caídas de voltaje a través de tres resistencias dispuestas en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectadas estas resistencias?
 
 
 V T = V1+V2+V3
 
+
 V T = 5,5 V + 8,2 V + 12,3 V 
+
 
 V T = 26 V
 
 
 32)Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
+
 ![image](https://user-images.githubusercontent.com/116781607/203937095-9dad3510-ecbb-4c6e-aa20-1b9bfe744487.png)
+
 
 Ecuacion del circuito A
 
+
 a)-15V+2V+V2+3,2V+1V+1,5V+0,5V=0
+
 
 V2 = 6,8 V
 
+
 Ecuacion del circuito B
+
 
 b)8V+8V+16V+24V+32V-VS =0
 
+
 VS = 88V
+
+
 
 34)Encuentre R1, R2 y R3 en la figura 5-82
 
 
 ![image](https://user-images.githubusercontent.com/116781607/203937305-820f1e3f-8e52-4f63-80bd-73edd63a5404.png)
+
 
 R1 = V/ I 
 
@@ -460,14 +505,22 @@ PT=  250mW
 
 48) Los siguientes resistores de 1⁄4 W están disponibles en serie: 1.2 kΩ, 2.2 kΩ, 3.9 kΩ, y 5.6 kΩ. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estas resistencias sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
 
+
+
 Vs=(PtxRt)^1/2
 
+
+
 vs=  3225V
+
+
 
 El resistor mayo a 1.2V  se quemara
 
 
 50)Cierto circuito en serie se compone de una resistencia de 1⁄8 W, una resistencia de 1⁄4 W, y una resistencia de 1⁄2 W. La resistencia total es de 2400Ω. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente
+
+
 
 a)I 
 
