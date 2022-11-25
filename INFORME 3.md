@@ -640,6 +640,509 @@ PARES
 
 ![image](https://user-images.githubusercontent.com/116781607/203944496-c3facfe0-24b1-441b-b026-18798d82b6cb.png)
 
+EL circuito esta conectado en parelelo lo cual la corriente se divide en diferentes trayectorias
+
+
+4)¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550Ω? Hay cuatro resistores, todos de igual valor
+
+El voltaje se mantiene en  entre los extremos al igual que en cada componente individual 
+
+Como se mencio  la corriente se divide entonces debemos usar las siguentes formulas
+
+
+R=  V /  I
+
+
+R=550/4
+ 
+ 
+R=137.5Ω
+
+CON LA RESISTENCIA TOTAL PODEMOS CALCULAR LA CORRIENTE
+
+I=V/R
+
+I=12/137.5 
+
+I=0.087A
+
+
+6)¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-6
+
+
+![image](https://user-images.githubusercontent.com/116781607/203948266-3b09fad0-a5dd-4cd8-84b3-66a2cddecd63.png)
+
+
+![image](https://user-images.githubusercontent.com/116781607/203948281-01801b2d-13b2-4db4-91b1-bf39fdfd78b7.png)
+
+
+Posiscion A 
+
+
+La resistencia total sera la suma de las 4 resistencias y la resistencia total sería igual a 0.42kΩ
+
+
+Posición B
+
+
+
+La resistencia total sería la suma de las resistencias R1, R2 y R3, la resistencia total sera 0.49kΩ
+
+
+Posición C
+
+
+la resistencia total es la suma de las resistencias R1 y R2, en la que la resistencia total sera igual a 0.64kΩ
+
+
+8)Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?
+
+
+![image](https://user-images.githubusercontent.com/116781607/203948940-fdb835cf-0b3f-4b09-87a0-c0b9497102db.png)
+
+
+A)
+
+a)R1=15/1     b)R2=15/1.8   c)R3=15/2.2       d)R4=15/2.7
+
+
+  I= 15mA      I=8.33mA     I=6.81mA            I=5.5mA
+
+
+La corriente total es
+
+
+IT=I1+I2+I3+I4
+
+
+IT=35.64mA
+
+
+La corriente de B ES 
+
+IT=I1+I2+I3
+
+IT=30.14mA
+
+Corriente total de A
+
+
+It= I1+I2
+
+
+IT=23.33mA
+
+
+10)Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+FORMAMOS LA ECUACION 
+
+IT=I1+I2+I3+I4+I5
+
+Despejo I5 ya que deseo saber la incognita
+
+I5=500-50-150-25-100 
+
+I5= 175mA
+
+
+12)En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica
+
+
+
+![image](https://user-images.githubusercontent.com/116781607/203957154-d4348033-8332-407a-808f-0485de78c4e1.png)
+
+
+14)Los siguientes resistores están conectados en paralelo: 1.0 MΩ, 2.2 MΩ, 5.6 MΩ, 12 MΩ, y 22 MΩ. Determinar la resistencia total
+
+Formula
+
+
+![image](https://user-images.githubusercontent.com/116781607/203957233-4ecdbf63-135c-4650-9c31-3db0176d22e5.png)
+
+
+R=0.57MΩ
+
+
+16)Calcule RT en cada uno de los circuitos de la figura 6-70
+
+
+https://github.com/smvaca2/Informe---tarea-3/raw/e3ce53120fa9198747ee69d17ee073764a23c215/16cap6.PNG
+
+Formula
+
+
+![image](https://user-images.githubusercontent.com/116781607/203957379-023d440c-9dea-4d0b-878a-e03d9be616dc.png)
+
+
+a)RT = 157,94 Ω
+
+b)RT = 18.21kΩ
+
+c)RT = 0.89kΩ
+
+
+18)Tres grupos, uno de cinco resistores de 470Ω, otro de diez resistores de 100Ω, y uno más de dos resistores de 100Ω están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?
+
+
+Grupo 1
+
+ R T =R/n 
+ 
+ 
+ RT =470/5 
+ 
+ 
+ RT= 94Ω
+ 
+ 
+ GRUPO 2
+ 
+ RT =R/n
+ 
+ 
+ RT =100/10 
+ 
+ 
+ RT= 10Ω
+  
+ 
+ GRUPO C
+ 
+ RT =R/n
+ 
+ 
+ RT = 100/2 
+ 
+ 
+ RT= 50 Ω
+ 
+ 
+ 20)Si la resistencia total en la figura 6-71 es de 389.2 Ω, ¿cuál es el valor de R2?
+ 
+ ![image](https://user-images.githubusercontent.com/116781607/203958233-82e0dc7b-8c0f-4f14-9c57-d7d41d11f78c.png)
+
+ECUACION DE CORRIENTE
+
+
+1/389,2= 1/680+1/R 2 
+
+1/R 2 = 1/389,2-1/680
+
+DESPEJE
+
+R 2 =910.09Ω
+
+
+
+22)¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?
+
+
+
+![image](https://user-images.githubusercontent.com/116781607/203958825-e9b8945d-5c02-49cc-9bce-1990e868d0cb.png)
+
+Circuito A
+
+ R T =10.24Ω
+ 
+ I=10V/10.24Ω
+ 
+ 
+ I= 0.9765mA
+ 
+___________________________ 
+CIruito B
+ 
+ 
+ R T =333.5Ω
+ 
+ 
+ I=25V/333.5Ω
+ 
+ 
+ I=0.07mA
+ 
+ 
+ 24) Cuatro resistencias de igual valor están conectadas en paralelo. Se aplican cinco voltios al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistencia?
+
+
+Aplicamos ley de Ohm
+ 
+ 
+ R=V/I
+ 
+ R=5V/1.11mA
+ 
+ R= 4.50kΩ
+ 
+ ENTONCES DIVIDIMOS PARA 4
+ 
+ 4,50kΩ/4
+ 
+ 1250Ω PARA CADA RESISTOR
+ 
+ 
+ 26)Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/116781607/203960348-0c39090d-7945-49f6-86c2-887995cd1ea6.png)
+ 
+ 
+ Is=I1+I2
+
+I2= 150mA-100mA
+
+I2= 50mA
+
+RESISTENCIA 1
+
+R1=Vs/I1 
+
+R1= 10/100
+
+R1=0.1kΩ
+
+RESISTENCIA 2
+
+R2=Vs/I2 
+
+R2=10/50
+
+R2= 0.2kΩ
+
+
+28)Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura 6-76
+
+
+![image](https://user-images.githubusercontent.com/116781607/203961196-20bfc93f-60a8-406f-b0fd-35cefa7f216a.png)
+
+
+a)
+
+Is=I1+I2=
+
+
+Is=3mA
+
+
+Rl=Vs/3mA
+
+
+b)Is=I1+I2
+
+
+I2= Is-I1
+
+
+I2= 50µA-40µA
+
+
+I2=10µA
+
+
+I2=Vs/10µA
+
+c)Is=I1+I2+I3
+
+Is= 1A-2.5A+2A=0.5A
+
+Is= 0.5A
+
+
+30)Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.
+
+
+![image](https://user-images.githubusercontent.com/116781607/203961952-254fd03c-65c4-4384-896e-bc3dd02d5362.png)
+
+
+Rt=(1x2.7)kΩ/(1+2.7kΩ)
+
+
+Rt=0.73kΩ
+
+______________________
+
+
+I1=Vs/1kΩ
+
+I1= (81/37)A
+______________________
+
+
+I2=(30/37)A
+
+
+Is=I1+I2 
+
+3A=Vs+Vs/2.7kΩ
+
+_____________________
+
+
+DESPEJO 
+Vs=(81/37)V
+
+vs= 2.81
+
+
+32)¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?
+
+
+![image](https://user-images.githubusercontent.com/116781607/203962442-34789b55-f739-4412-afd2-07516f715212.png)
+
+
+25/12R = 1/Rt 
+
+DESPEJE 
+
+Rt=12/25Ω 
+
+Vs= 12R/5
+
+I1=12/5 = 2.4 A
+
+I2=12/10 = 1.2 A
+
+I3=12/15 =  0.8 A
+
+I4=12/20 = 0.6 A
+
+
+34)¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica
+
+
+![image](https://user-images.githubusercontent.com/116781607/203962885-79f104fa-1459-48a0-b885-a7948f999ed0.png)
+
+
+I1=V/R1 -
+
+DESPEJE 
+
+V=I1xR1
+
+1mAx50Ω=0.05
+
+R2= V/I2
+
+I2=0.05V/0.09mA
+
+I2=5.55mA
+
+
+38)Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?
+
+Pt=VxIt 
+
+
+Despeje
+
+
+It=P/V 
+
+
+It= 450/(110)
+
+
+It=4.09A
+
+
+Pt=It2xRt
+
+
+Rt=Pt/It2 
+
+
+Rt=26.
+
+
+It=681+681+681+681+681+681
+
+
+It=4086mA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
