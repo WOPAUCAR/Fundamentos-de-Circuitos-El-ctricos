@@ -51,6 +51,14 @@ Aprender a localiar fallas en un circuitos en serie-paralelo
 ![Tablero en blanco (12)](https://user-images.githubusercontent.com/116781607/208007097-05ade7b9-fa2d-4926-96d6-8c974ee31975.png)
 
 
+![Tablero en blanco (13)](https://user-images.githubusercontent.com/116781607/208008504-2e356ca3-c1e4-48de-9225-0aae5d909099.png)
+
+
+![Tablero en blanco (14)](https://user-images.githubusercontent.com/116781607/208009115-8aa23903-4154-4363-a8af-38572ba974ad.png)
+
+
+![Tablero en blanco (16)](https://user-images.githubusercontent.com/116781607/208010553-99a497c8-84fc-4a3a-9a2c-0ff58937c3cb.png)
+
 
 
 
