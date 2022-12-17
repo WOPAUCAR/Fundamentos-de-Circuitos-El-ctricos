@@ -60,5 +60,8 @@ Aprender a localiar fallas en un circuitos en serie-paralelo
 ![Tablero en blanco (16)](https://user-images.githubusercontent.com/116781607/208010553-99a497c8-84fc-4a3a-9a2c-0ff58937c3cb.png)
 
 
+# EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS CAP  7 Y 8
+
+CAP 7 
 
 
