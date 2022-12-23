@@ -1,2 +1,5 @@
-# Fundamentos-de-Circuitos-El-ctricos
-Repositorio de trabajos 
+# INFORME-TAREA-5
+
+# Nombre: Wiliam Omar Paucar Llumiquinga
+
+# OBJETIVOS
