@@ -158,13 +158,14 @@ La fuerza inducida se opondra al movimiento es hacia abajo
 
 ![image](https://user-images.githubusercontent.com/116781607/209420690-52f922a3-82cf-4941-a8d2-63ceaec9481a.png)
 
-4) VIDEO 
+# VIDEO 
 
-5) CONCLUSIONES
+
+# CONCLUSIONES
 
 En mi opinion es necesario estudiar estos conocimiento detenidamente para poder resolver estos ejercicios ya que asi podremos comprobar los calculos y las medidad u errores que se nos puede presentar 
 
-6) BIBLIOGRAFIA 
+# BIBLIOGRAFIA 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso_Walker, S. M. (2007). El magnetismo. ediciones Lerner.
 
 
