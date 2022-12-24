@@ -93,6 +93,96 @@ electromagnética
 
 ![image](https://user-images.githubusercontent.com/116781607/209420076-65e8b9a9-ea9d-49a5-beca-b257ff26e4a2.png)
 
+![image](https://user-images.githubusercontent.com/116781607/209420251-03fae2fc-7c9d-486c-b600-917e63daae7b.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420403-d620b176-6b28-4bc7-972c-c9be6162e240.png)
+
+
+![image](https://user-images.githubusercontent.com/116781607/209420308-a3d2b202-89b8-4fbe-978c-23f2f90eb48e.png)
+
+# Ejercicios Capitulo 10
+
+![image](https://user-images.githubusercontent.com/116781607/209420438-62bb002b-3d9e-401a-902b-ac1bc2610d31.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420447-802c1ead-e544-444c-aa36-180b75c95c14.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420463-33159414-e515-424e-9631-c5daa5c811cf.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420467-84b06f95-37a6-45ad-89cc-dd7c92043991.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420472-f7e46f90-afcd-4613-b2e1-54aa871260ce.png)
+
+
+La aguja dgira a 180 grados
+
+
+![image](https://user-images.githubusercontent.com/116781607/209420487-4e6b659e-8357-4303-8f91-1ad79d83e319.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420495-2bb72fe6-8487-4007-86df-a530824a3d42.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420498-257ce4a9-23ba-49f2-ab24-3eb7f0757135.png)
+
+El embolo se retrae cuando el solenoide se activa
+
+![image](https://user-images.githubusercontent.com/116781607/209420508-a2abd979-f894-4bfb-aa20-85b246e9d033.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420511-1b4238a1-7186-4ca9-bd0d-2dbcd45db027.png)
+
+El rele que conecta de 9v encjende la lampara 2 y se apaga la 1
+
+![image](https://user-images.githubusercontent.com/116781607/209420532-1dc243bf-2ddd-4f7d-8dbb-0fb98f9cf78a.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420560-039a912e-fe48-4a1d-8cd0-5f09db92372b.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420563-1032d3e8-557d-4b8b-b5fc-c7604b93cb82.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420577-a3ba6574-a73c-48e7-903f-a8b367e056d5.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420584-1f487885-a416-429d-bc3b-e32cc06e6da5.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420595-314fc113-40f5-410f-bb08-6f6f049eb3ce.png)
+
+El voltae inducido se duplica cuando la tasa de cambio magnetico se duplica
+
+![image](https://user-images.githubusercontent.com/116781607/209420606-14c77c58-0921-496c-ae75-784470831a02.png)
+
+El campo magnetico o cambia , no habria voltaje 
+
+![image](https://user-images.githubusercontent.com/116781607/209420660-f1af72cf-6125-4aa5-80b0-e7755ebce9e7.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420665-62229d38-ab02-4f54-9421-d4a3c0d4f380.png)
+
+La fuerza inducida se opondra al movimiento es hacia abajo
+
+![image](https://user-images.githubusercontent.com/116781607/209420681-cef3b675-4e64-481d-bda2-bf92aaa864bc.png)
+
+![image](https://user-images.githubusercontent.com/116781607/209420690-52f922a3-82cf-4941-a8d2-63ceaec9481a.png)
+
+4) VIDEO 
+
+5) CONCLUSIONES
+
+En mi opinion es necesario estudiar estos conocimiento detenidamente para poder resolver estos ejercicios ya que asi podremos comprobar los calculos y las medidad u errores que se nos puede presentar 
+
+6) BIBLIOGRAFIA 
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso_Walker, S. M. (2007). El magnetismo. ediciones Lerner.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
