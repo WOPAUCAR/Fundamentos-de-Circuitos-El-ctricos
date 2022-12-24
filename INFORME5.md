@@ -160,6 +160,7 @@ La fuerza inducida se opondra al movimiento es hacia abajo
 
 # VIDEO 
 
+https://youtu.be/lWuYSFa4eqc
 
 # CONCLUSIONES
 
