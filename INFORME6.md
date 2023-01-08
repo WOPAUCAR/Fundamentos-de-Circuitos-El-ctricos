@@ -33,6 +33,9 @@ un capacitor
 MARCO TEÓRICO (RESUMEN)
 
 
+![Tablero en blanco (23)](https://user-images.githubusercontent.com/116781607/211222343-83998564-689b-4e75-ae99-cf085ee36b64.png)
+
+
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![image](https://user-images.githubusercontent.com/116781607/211217464-b0243889-0f39-49fe-ac5c-49da73a03cd5.png)
