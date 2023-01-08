@@ -364,6 +364,19 @@ Ejercicios CAP 12
 
 Debertia ser 0 omh para proporcionarun corto a tierra para AC
 
+#Video
+
+
+
+#Conclusiones
+
+
+#Bibliografía 
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
+
+
+
 
 
 
