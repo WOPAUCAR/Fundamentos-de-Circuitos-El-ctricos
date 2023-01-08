@@ -1,4 +1,4 @@
-INFORME-TAREA-5
+INFORME-TAREA-6
 
 
 Nombre: Wiliam Omar Paucar Llumiquinga
@@ -370,6 +370,8 @@ Debertia ser 0 omh para proporcionarun corto a tierra para AC
 
 #Conclusiones
 
+Es importante la comprension de la teoria para poder entenderlo a la perfeccion tambien es importante revisar los capitulos anteriosres para enterde correctamente
+los nuevos temas
 
 #Bibliografía 
 
