@@ -364,16 +364,16 @@ Ejercicios CAP 12
 
 Debertia ser 0 omh para proporcionarun corto a tierra para AC
 
-#Video
+# Video
 
+https://youtu.be/zlawPI_O0BY
 
-
-#Conclusiones
+# Conclusiones
 
 Es importante la comprension de la teoria para poder entenderlo a la perfeccion tambien es importante revisar los capitulos anteriosres para enterde correctamente
 los nuevos temas
 
-#Bibliografía 
+# Bibliografía 
 
 Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
 
