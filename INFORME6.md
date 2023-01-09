@@ -1,10 +1,10 @@
-INFORME-TAREA-6
+# INFORME-TAREA-6
 
 
-Nombre: Wiliam Omar Paucar Llumiquinga
+# Nombre: Wiliam Omar Paucar Llumiquinga
 
 
-OBJETIVOS
+# OBJETIVOS
 
 
 Identificar una forma de onda sinusoidal y medir sus características
@@ -30,7 +30,7 @@ Estudiar la operación de circuitos conmutados por
 un capacitor
 
 
-MARCO TEÓRICO (RESUMEN)
+# MARCO TEÓRICO (RESUMEN)
 
 
 ![Tablero en blanco (23)](https://user-images.githubusercontent.com/116781607/211222343-83998564-689b-4e75-ae99-cf085ee36b64.png)
